@@ -1,0 +1,47 @@
+* {
+    background-color:rgb(249, 246, 246);
+}
+
+/*Ejercicio 1*/
+
+h1 {
+    text-align: center;
+    color:rgb(66, 119, 216);
+}
+
+h2 {
+    color:rgb(66, 119, 216); 
+    margin-top: 55px;
+    
+}
+
+.section {
+    margin-left: 45px;
+    margin-right: 45px;
+    font-size: 1rem;
+}
+
+.tab {
+    margin-left: 35px;
+}
+
+
+/*Ejercicio 2*/
+
+.container {
+   display:inline-table;
+  margin-left: 20vw;
+}
+
+.romanos_lower{
+    list-style-type:lower-roman;
+  }
+
+  
+.type1 {
+    list-style-type: circle;
+}
+
+.type2 {
+    list-style-type: square;
+}
