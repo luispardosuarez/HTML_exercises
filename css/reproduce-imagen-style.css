@@ -2,8 +2,6 @@
     background-color:rgb(249, 246, 246);
 }
 
-/*Ejercicio 1*/
-
 h1 {
     text-align: center;
     color:rgb(66, 119, 216);
@@ -23,25 +21,4 @@ h2 {
 
 .tab {
     margin-left: 35px;
-}
-
-
-/*Ejercicio 2*/
-
-.container {
-   display:inline-table;
-  margin-left: 20vw;
-}
-
-.romanos_lower{
-    list-style-type:lower-roman;
-  }
-
-  
-.type1 {
-    list-style-type: circle;
-}
-
-.type2 {
-    list-style-type: square;
 }

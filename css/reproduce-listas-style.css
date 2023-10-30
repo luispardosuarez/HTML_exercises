@@ -1,0 +1,22 @@
+* {
+    background-color:rgb(249, 246, 246);
+}
+
+
+.container {
+   display:inline-table;
+  margin-left: 20vw;
+}
+
+.romanos_lower{
+    list-style-type:lower-roman;
+  }
+
+  
+.type1 {
+    list-style-type: circle;
+}
+
+.type2 {
+    list-style-type: square;
+}
