@@ -9,4 +9,4 @@ The exercise consists of:
  
 ![image](https://github.com/luispardosuarez/HTML_exercises/assets/144243096/79ecfdcd-2b31-44c5-ae49-9865b0ad43c6)
 
-- Correct the HTML code errors. You can obtain the code by cloning the GitHub repository: https://github.com/FactoriaF5-Asturias/Exercise-HTML-Horror-Code.git
+- Correct the HTML code errors. 
